@@ -1,0 +1,9 @@
+# This project uses only Python standard library modules.
+# No third-party packages are required.
+#
+# Required: Python 3.7+
+# Built-in modules used:
+#   - tkinter  (GUI)
+#   - csv      (data persistence)
+#   - os       (file path checks)
+#   - datetime (borrow date tracking)
