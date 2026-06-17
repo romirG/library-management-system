@@ -104,6 +104,25 @@ New borrower accounts can be registered from the login screen using **Add Borrow
 
 ---
 
+## 🤝 Contributing
+
+Contributions are welcome! Here are some ideas for improvements:
+
+- [ ] Hash passwords (e.g., using `bcrypt` or `hashlib`)
+- [ ] Add due-date tracking and overdue alerts
+- [ ] Migrate from CSV to a SQLite database
+- [ ] Add unit tests (`pytest`)
+- [ ] Paginate the book list for large catalogues
+
+To contribute:
+1. Fork the repository
+2. Create a feature branch: `git checkout -b feature/your-feature`
+3. Commit your changes: `git commit -m "Add your feature"`
+4. Push to the branch: `git push origin feature/your-feature`
+5. Open a Pull Request
+
+---
+
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
